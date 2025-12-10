@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+a{
+  text-decoration: none;
+}
+
+.s2{
+    text-align: center;
+}
+
+.i1{
+    border-bottom: 3px solid #E4E4E4;
+}
+
+.t{
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 72px;
+}
